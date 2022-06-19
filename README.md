@@ -51,7 +51,7 @@
 <h2 style="border-bottom: 1px solid grey; display: inline-block; margin-bottom: 12px">3 - Compilação dos scripts para Javascript</h2>
     <br><br>
     <span>
-        Uma funcionalidade que está presente do Typescript, e que é uma ferramente essencial para se trabalhar com ele, é o compilador.
+        Uma funcionalidade que está presente do Typescript, e que é uma ferramenta essencial para se trabalhar com ele, é o compilador.
     </span> <br><br>
     <strong>O que é o compilador ?</strong>
     <br><br>
